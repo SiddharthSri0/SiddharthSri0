@@ -12,9 +12,9 @@
 ![](https://streak-stats.demolab.com/?user=SiddharthSri0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SiddharthSri0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+## 🎃 Hacktoberfest Contributions
 
 
 [![An image of @siddharthsri0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddharthsri0)](https://holopin.io/@siddharthsri0)
