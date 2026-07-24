@@ -1,5 +1,17 @@
-#  About Me:
-<br>1st-year Computer Science student — interested in algorithms, systems, and writing clean code.<br><br>🧠 DSA Journey<br>Building a comprehensive solutions repository covering:<br><br>NeetCode 150 — core patterns and techniques<br><br>🛠 Tech Stack<br><br>Languages: C++, Python,C 
+<table>
+<tr>
+<td valign="top" width="50%">
+
+![Intro](intro.svg)
+
+</td>
+<td valign="top" width="50%">
+
+![Rotating ASCII Cube](CubeRender.gif)
+
+</td>
+</tr>
+</table>
 
 
 # 💻 Tech Stack:
