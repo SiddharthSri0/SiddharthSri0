@@ -30,9 +30,9 @@
 
 
 ## GSSOC Badges 
-<img width="1080" height="1080" alt="G2" src="https://github.com/user-attachments/assets/07ab89ab-0fc6-4cad-b7b3-3ec2d15e11cf" />
-<img width="810" height="810" alt="G1" src="https://github.com/user-attachments/assets/cd654053-cd54-4bed-81f3-9590a22e79d4" />
-<img width="1080" height="1080" alt="G3" src="https://github.com/user-attachments/assets/d954102c-2a0e-4ca1-8d33-d8ae04c9c62d" />
+<img width="200" alt="G2" src="https://github.com/user-attachments/assets/07ab89ab-0fc6-4cad-b7b3-3ec2d15e11cf" />
+<img width="200" alt="G1" src="https://github.com/user-attachments/assets/cd654053-cd54-4bed-81f3-9590a22e79d4" />
+<img width="200" alt="G3" src="https://github.com/user-attachments/assets/d954102c-2a0e-4ca1-8d33-d8ae04c9c62d" />
 
 
 
